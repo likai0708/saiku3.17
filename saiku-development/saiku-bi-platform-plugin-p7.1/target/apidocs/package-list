@@ -1,0 +1,4 @@
+org.saiku.plugin
+org.saiku.plugin.resources
+org.saiku.plugin.util
+org.saiku.plugin.util.packager
